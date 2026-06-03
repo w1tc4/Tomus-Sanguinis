@@ -1,2 +1,13 @@
 # Tomus-Sanguinis
-My Custom collection of terminal layout configurations, ASCII art banners, ANSI color schemes, and custom Unicode/Nerd Font glyph symbols used to style my developer environment.
+An ancient esoteric manuscript of handscribed terminal scripts, ASCII sigils, ANSI pigmented runes, and crypic unicode glyphs.
+This manuscript weaves them all together and bounds them in blood...
+
+There would be tales of men whove sought its power...sought against all that is pyious. 
+Of those who dared gaze upon its tightly wound spine and gnawed up edges...
+Surely, there would be plenty odes...some fables.....and some honest lore
+Moving epics of the self rightous man and his solemnly vow to take his fill.
+...and thats true...there would be many tales indeed...
+
+
+...that is of course...if any were left...with such instruments to speak...
+
